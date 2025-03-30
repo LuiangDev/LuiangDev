@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Luis Angel Quispe Navarro ✨
 
-Soy un **Frontend Developer** apasionado por la tecnología, el diseño de interfaces y la creación de experiencias digitales intuitivas. Me especializo en **React, TailwindCSS y JavaScript**, con un enfoque en construir aplicaciones web eficientes y escalables. 🚀✨
+Soy un **Front-End Developer** apasionado por la tecnología, el diseño de interfaces y la creación de experiencias digitales intuitivas. Me especializo en **React, TailwindCSS y JavaScript**, con un enfoque en construir aplicaciones web eficientes y escalables. 🚀✨
 
 ---
 
