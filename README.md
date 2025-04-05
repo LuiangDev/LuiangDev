@@ -31,6 +31,7 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 ### 📌 Proyectos destacados
 - **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** - E-commerce de heladería con React y Next.js.
 - **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** - Aplicación para gestionar ingresos y gastos personales.
+- **[CIVA|Gestor de Buses](https://github.com/LuiangDev/buses-api-frontend)** - Herramienta digital para el control y administración de buses.
 - **[Más proyectos...](https://github.com/LuiangDev?tab=repositories)**
 
 ---
