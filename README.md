@@ -27,7 +27,7 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 - **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** - Aplicación para gestionar ingresos y gastos personales.
 - **[CIVA|Gestor de Buses](https://github.com/LuiangDev/buses-api-frontend)** - Herramienta digital para el control y administración de buses.
 - **[ZionAI | Sistema de Análisis Predictivo de Tendencias de Mercado](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma inteligente diseñada para anticipar tendencias de mercado en tiempo real.
-- **[Más proyectos...](https://github.com/LuiangDev?tab=repositories)**
+- **[CambioXpress | Simulador de Divisas y Criptomonedas]([https://github.com/M41k80/app-prediccion-tendencias](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe))** - Plataforma web interactiva que simula el manejo de divisas y criptomonedas
 
 ---
 
