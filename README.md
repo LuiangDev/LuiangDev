@@ -23,13 +23,13 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 ---
 
 ### 📌 Proyectos:
-- **[ZionAI | Sistema de Análisis Predictivo de Tendencias de Mercado](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma inteligente diseñada para anticipar tendencias de mercado en tiempo real.
-- **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** - Aplicación web de e-commerce diseñada para la Heladería Fresko.
-- **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** - Aplicación para gestionar ingresos y gastos personales.
-- **[CIVA | Gestor de Buses](https://github.com/LuiangDev/buses-api-frontend)** - Herramienta digital para el control y administración de buses.
-- **[CambioXpress | Simulador de Divisas y Criptomonedas](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe)** - Plataforma web interactiva que simula el manejo de divisas y criptomonedas.
-- **[LuiangDev | Portafolio Web Personal](https://github.com/LuiangDev/EntregaDesarrolloWeb)** - Primera versión de mi Sitio web de portafolio personal diseñado para presentar mi perfil profesional como Desarrollador Front-End. **(Proyecto en proceso de mejora)**
-- **[TyTo Pets](https://github.com/LuiangDev/ProyectoFinal-LuisQuispe)** - Aplicación web de e-commerce especializado en la venta de productos para mascotas, ofreciendo una experiencia de compra intuitiva y segura. **(Proyecto en proceso de mejora)**
+- **[ZionAI](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma web diseñada para anticipar tendencias de mercado en tiempo real impulsada por IA.
+- **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** - Plataforma web de e-commerce desarrollada para Heladería Fresko, orientada a digitalizar y agilizar la experiencia de compra de helados, haciéndola más intuitiva y accesible.
+- **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** - Plataforma web diseñada como solución digital para administrar tus finanzas personales de forma clara y eficiente.
+- **[CIVA](https://github.com/LuiangDev/buses-api-frontend)** - Plataforma web orientado a la gestión y control de flotas de buses.
+- **[CambioXpress](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe)** - Plataforma web interactiva que permite simular operaciones con divisas y criptomonedas.
+- **[LuiangDev](https://github.com/LuiangDev/EntregaDesarrolloWeb)** - Primera versión de mi Sitio web de portafolio personal diseñado para presentar mi perfil profesional como Desarrollador Front-End. **(Proyecto en proceso de mejora)**
+- **[TyToPets](https://github.com/LuiangDev/ProyectoFinal-LuisQuispe)** - Plataforma web de e-commerce especializado en la venta de productos para mascotas, ofreciendo una experiencia de compra intuitiva y segura. **(Proyecto en proceso de mejora)**
 
 ---
 
