@@ -27,7 +27,7 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 - **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** - Aplicación web de e-commerce diseñada para la Heladería Fresko.
 - **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** - Aplicación para gestionar ingresos y gastos personales.
 - **[CIVA|Gestor de Buses](https://github.com/LuiangDev/buses-api-frontend)** - Herramienta digital para el control y administración de buses.
-- **[CambioXpress | Simulador de Divisas y Criptomonedas](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe)** - Plataforma web interactiva que simula el manejo de divisas y criptomonedas
+- **[CambioXpress | Simulador de Divisas y Criptomonedas](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe)** - Plataforma web interactiva que simula el manejo de divisas y criptomonedas.
 - **[LuiangDev | Portafolio Web Personal](https://github.com/LuiangDev/EntregaDesarrolloWeb)** - Primera versión de mi Sitio web de portafolio personal diseñado para presentar mi perfil profesional como Desarrollador Front-End.
 
 ---
