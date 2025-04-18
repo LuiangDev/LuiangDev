@@ -24,7 +24,7 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 
 ### 📌 Proyectos destacados
 - **[ZionAI | Sistema de Análisis Predictivo de Tendencias de Mercado](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma inteligente diseñada para anticipar tendencias de mercado en tiempo real.
-- **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** - E-commerce de heladería con React y Next.js.
+- **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** - Aplicación web de e-commerce diseñada para la Heladería Fresko.
 - **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** - Aplicación para gestionar ingresos y gastos personales.
 - **[CIVA|Gestor de Buses](https://github.com/LuiangDev/buses-api-frontend)** - Herramienta digital para el control y administración de buses.
 - **[CambioXpress | Simulador de Divisas y Criptomonedas](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe)** - Plataforma web interactiva que simula el manejo de divisas y criptomonedas
