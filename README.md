@@ -23,7 +23,7 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 ---
 
 ### 📌 Proyectos:
-- **[CarbonIQ](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma web diseñada para anticipar tendencias de mercado en tiempo real impulsada por IA.
+- **[CarbonIQ](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma web que calcula la huella de carbono y ofrece predicciones y consejos basados en IA.
 - **[ZionAI](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma web diseñada para anticipar tendencias de mercado en tiempo real impulsada por IA.
 - **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** - Plataforma web de e-commerce desarrollada para Heladería Fresko, orientada a digitalizar y agilizar la experiencia de compra de helados, haciéndola más intuitiva y accesible.
 - **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** - Plataforma web diseñada como solución digital para administrar tus finanzas personales de forma clara y eficiente.
