@@ -41,4 +41,4 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 
 ---
 
-¡No dudes en revisar mis proyectos y contribuir! ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! 🚀✨💡
+¡No dudes en revisar mis proyectos! ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! 🚀✨💡
