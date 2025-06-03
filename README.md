@@ -8,7 +8,7 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 - 💡 Apasionado por la tecnología y el aprendizaje constante.
 - 🎨 Amante del **UX/UI**, buscando siempre mejorar la experiencia del usuario.
 - 🏆 Comprometido con la calidad del código y las buenas prácticas.
-- 📚 Actualmente aprendiendo **Angular, TypeScript e Inglés**.
+- 📚 Actualmente aprendiendo **Angular, TypeScript, Diseño UX/UI e Inglés**.
 
 ---
 
