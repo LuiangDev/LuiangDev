@@ -23,6 +23,7 @@ Soy un **Desarrollador Front-End** apasionado por la tecnología, el diseño de 
 ---
 
 ### 📌 Proyectos:
+- **[Patas Pirque](https://github.com/Carolina2024/match_project)** - Plataforma web que gestiona las adopciones de la Fundación Patas Pirque.
 - **[BalanceAI](https://github.com/M41k80/express3)** - Plataforma web que estructura planes de alimentación y ejercicios potenciados por IA.
 - **[CarbonIQ](https://github.com/M41k80/calculadora-de-carbono)** - Plataforma web que calcula la huella de carbono y ofrece predicciones y consejos basados en IA.
 - **[ZionAI](https://github.com/M41k80/app-prediccion-tendencias)** - Plataforma web que anticipa tendencias de mercado en tiempo real impulsada por IA.
