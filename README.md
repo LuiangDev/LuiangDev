@@ -1,7 +1,7 @@
 ### 👋 ¡Hola! Soy Luis Angel Quispe Navarro ✨
 
 **Desarrollador Front-End** apasionado por el diseño de interfaces modernas y la creación de experiencias digitales funcionales e intuitivas. Me especializo en **React**, **TailwindCSS** y **JavaScript**, construyendo soluciones web **eficientes, escalables y visualmente atractivas**.  
-Apunto a proyectos donde la lógica, la estética y la tecnología se unan para crear valor real. 🚀
+Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan para crear valor real. 🚀
 
 ---
 
