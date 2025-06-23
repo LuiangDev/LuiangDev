@@ -60,4 +60,4 @@ Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan p
 
 ---
 
-> 💬 *Explora mis proyectos, revisa mi código y si alguna idea te resuena... ¡construyámosla juntos!*
+> 💬 *Explora mis proyectos, revisa mi código y si alguno de ellos te resuena... ¡construyámosla juntos!*
