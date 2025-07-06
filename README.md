@@ -9,7 +9,7 @@ Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan p
 - 🔁 En constante aprendizaje y evolución tecnológica.
 - 🎨 Firme creyente en el poder del **UX/UI** para mejorar la vida digital de las personas.
 - 🧠 Enfocado en escribir código limpio, mantenible y escalable.
-- 📚 Actualmente profundizando en **Angular**, **Diseño UX/UI** e **Inglés técnico**.
+- 📚 Actualmente profundizando en **Angular**, **UX/UI Design**, **Product Design** e **Inglés técnico**.
 
 ---
 
