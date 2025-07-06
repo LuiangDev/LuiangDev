@@ -39,8 +39,9 @@ Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan p
 
 ### 📌 Proyectos Destacados
 
+- 🔗 **[Maily](https://github.com/LuiangDev/express-team12)** — Herramienta impulsada por IA que transforma ideas en correos listos para enviar.
 - 🔗 **[Patas Pirque](https://github.com/Carolina2024/match_project)** — Plataforma inteligente para adopciones de la fundación Patas Pirque.
-- 🔗 **[BalanceAI](https://github.com/M41k80/express3)** — IA para crear planes de alimentación y ejercicios personalizados.
+- 🔗 **[BalanceAI](https://github.com/M41k80/express3)** — Plataforma para crear planes de alimentación y ejercicios personalizados impulsadas con IA.
 - 🔗 **[CarbonIQ](https://github.com/M41k80/calculadora-de-carbono)** — Calculadora de huella de carbono con recomendaciones predictivas.
 - 🔗 **[ZionAI](https://github.com/M41k80/app-prediccion-tendencias)** — Predicción de tendencias de mercado en tiempo real con IA.
 - 🔗 **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** — E-commerce para heladería artesanal.
