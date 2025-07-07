@@ -1,21 +1,23 @@
 ### 👋 ¡Hola! Soy Luis Angel Quispe Navarro ✨
 
-**Desarrollador Front-End** apasionado por el diseño de interfaces modernas y la creación de experiencias digitales funcionales e intuitivas. Me especializo en **React**, **TailwindCSS** y **JavaScript**, construyendo soluciones web **eficientes, escalables y visualmente atractivas**.  
-Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan para crear valor real. 🚀
+**Desarrollador Front-End** enfocado en construir interfaces modernas, accesibles y funcionales que conecten diseño, experiencia y tecnología.  
+Apasionado por crear productos digitales que generen valor real desde lo visual hasta lo técnico. 🚀  
+Especializado en **React**, **TailwindCSS** y **JavaScript**, actualmente explorando con fuerza el mundo del **UX/UI Design** y el **Product Design**.
 
 ---
 
 ### 💡 Sobre mí
-- 🔁 En constante aprendizaje y evolución tecnológica.
-- 🎨 Firme creyente en el poder del **UX/UI** para mejorar la vida digital de las personas.
-- 🧠 Enfocado en escribir código limpio, mantenible y escalable.
-- 📚 Actualmente profundizando en **Angular**, **UX/UI Design**, **Product Design** e **Inglés técnico**.
+
+- 🔄 Siempre en evolución: me gusta aprender, desaprender y construir con propósito.
+- 🎨 Creo firmemente en el poder del diseño para transformar experiencias digitales.
+- 🧠 Comprometido con escribir código **limpio**, **escalable** y **mantenible**.
+- 📚 Actualmente profundizando en **Angular**, **UX/UI**, **Product Design** e **Inglés técnico**.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
-#### 🌐 Frontend:
+#### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -25,7 +27,7 @@ Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan p
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-5A67D8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🔧 Herramientas:
+#### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -39,17 +41,17 @@ Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan p
 
 ### 📌 Proyectos Destacados
 
-- 🔗 **[Maily](https://github.com/LuiangDev/express-team12)** — Herramienta impulsada por IA que transforma ideas en correos listos para enviar.
-- 🔗 **[Patas Pirque](https://github.com/Carolina2024/match_project)** — Plataforma inteligente para adopciones de la fundación Patas Pirque.
-- 🔗 **[BalanceAI](https://github.com/M41k80/express3)** — Plataforma para crear planes de alimentación y ejercicios personalizados impulsadas con IA.
-- 🔗 **[CarbonIQ](https://github.com/M41k80/calculadora-de-carbono)** — Calculadora de huella de carbono con recomendaciones predictivas.
-- 🔗 **[ZionAI](https://github.com/M41k80/app-prediccion-tendencias)** — Predicción de tendencias de mercado en tiempo real con IA.
-- 🔗 **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** — E-commerce para heladería artesanal.
-- 🔗 **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** — Gestión financiera personal desde una interfaz clara y ágil.
-- 🔗 **[CIVA](https://github.com/LuiangDev/buses-api-frontend)** — Control y gestión de flotas de buses.
-- 🔗 **[CambioXpress](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe)** — Simulador de divisas y criptomonedas.
-- 🔗 **[LuiangDev](https://github.com/LuiangDev/EntregaDesarrolloWeb)** — Primer portafolio personal como Front-End Developer. *(En rediseño)*
-- 🔗 **[TyToPets](https://github.com/LuiangDev/ProyectoFinal-LuisQuispe)** — E-commerce especializado en productos para mascotas. *(En mejora)*
+- 🔗 **[Maily](https://github.com/LuiangDev/express-team12)** – Generador de correos con IA para PyMEs.
+- 🔗 **[Patas Pirque](https://github.com/Carolina2024/match_project)** – Plataforma inteligente para adopción de mascotas.
+- 🔗 **[BalanceAI](https://github.com/M41k80/express3)** – Planes personalizados de alimentación y ejercicio con IA.
+- 🔗 **[CarbonIQ](https://github.com/M41k80/calculadora-de-carbono)** – Calculadora predictiva de huella de carbono.
+- 🔗 **[ZionAI](https://github.com/M41k80/app-prediccion-tendencias)** – Análisis y predicción de tendencias de mercado.
+- 🔗 **[FRESKO](https://github.com/No-Country-simulation/s21-13-n-webapp)** – E-commerce para heladería artesanal.
+- 🔗 **[FIPE](https://github.com/No-Country-simulation/c23-68-webapp)** – Gestión financiera personal.
+- 🔗 **[CIVA](https://github.com/LuiangDev/buses-api-frontend)** – Sistema de gestión de flotas de buses.
+- 🔗 **[CambioXpress](https://github.com/LuiangDev/EntregasJS/tree/main/ProyectoFinal-LuisQuispe)** – Simulador de divisas y criptomonedas.
+- 🔗 **[LuiangDev](https://github.com/LuiangDev/EntregaDesarrolloWeb)** – Primer portafolio personal como Front-End Developer *(en rediseño)*.
+- 🔗 **[TyToPets](https://github.com/LuiangDev/ProyectoFinal-LuisQuispe)** – E-commerce para productos de mascotas *(en mejora)*.
 
 ---
 
@@ -61,4 +63,4 @@ Me enfoco en proyectos donde la lógica, la estética y la tecnología se unan p
 
 ---
 
-> 💬 *Explora mis proyectos, revisa mi código y si alguno de ellos te resuena... ¡construyámosla juntos!*
+> 💬 *Explora mis proyectos, revisa mi código y, si alguno conecta contigo... ¡hagamos equipo!*
