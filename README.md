@@ -63,4 +63,4 @@ Especializado en **React**, **TailwindCSS** y **JavaScript**, actualmente explor
 
 ---
 
-> 💬 *Explora mis proyectos, revisa mi código y, si alguno conecta contigo... ¡hagamos equipo!*
+> 💬 *Explora mis proyectos, revisa mi código y, si alguno conecta contigo... Conectemos!*
