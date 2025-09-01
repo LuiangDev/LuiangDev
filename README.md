@@ -41,7 +41,6 @@ Especializado en **React**, **TailwindCSS** y **JavaScript**, actualmente explor
 
 ### 📌 Proyectos Destacados
 
-- 🔗 **[IncaCore]()** – Sistema de Registro y mantenimiento de embarcaciones. (En proceso)
 - 🔗 **[Maily](https://github.com/LuiangDev/express-team12)** – Generador de correos con IA para PyMEs.
 - 🔗 **[Patas Pirque](https://github.com/Carolina2024/match_project)** – Plataforma inteligente para adopción de mascotas.
 - 🔗 **[BalanceAI](https://github.com/M41k80/express3)** – Planes personalizados de alimentación y ejercicio con IA.
