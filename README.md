@@ -2,7 +2,7 @@
 
 **Desarrollador Front-End** enfocado en construir interfaces modernas, accesibles y funcionales que conecten diseño, experiencia y tecnología.  
 Apasionado por crear productos digitales que generen valor real desde lo visual hasta lo técnico. 🚀  
-Especializado en **React**, **TailwindCSS** y **JavaScript**, actualmente explorando notablemente el mundo del **UX/UI Design** y el **Product Design**. A su vez, ando ampliando mis conocimientos en la práctica de **Angular** y el idioma del inglés técnico para posibles oportunidades internacionales.
+Especializado en **React**, **TailwindCSS** y **JavaScript**, actualmente explorando notablemente el mundo del **UX/UI Design** y el **Product Design**. A su vez, ando ampliando mis conocimientos en el idioma del inglés técnico para posibles oportunidades internacionales.
 
 ---
 
@@ -11,7 +11,7 @@ Especializado en **React**, **TailwindCSS** y **JavaScript**, actualmente explor
 - 🔄 Siempre en evolución: me gusta aprender, desaprender y construir con propósito.
 - 🎨 Creo firmemente en el poder del diseño para transformar experiencias digitales.
 - 🧠 Comprometido con escribir código **limpio**, **escalable** y **mantenible**.
-- 📚 Actualmente profundizando en **Angular**, **UX/UI**, **Product Design** e **Inglés técnico**.
+- 📚 Actualmente profundizando en **UX/UI**, **Product Design** e **Inglés técnico**.
 
 ---
 
